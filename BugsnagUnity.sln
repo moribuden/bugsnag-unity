@@ -23,6 +23,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BugsnagUnity.MacOS", "src\B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BugsnagUnity.Windows", "src\BugsnagUnity\BugsnagUnity.Windows.csproj", "{B8C265A4-657B-4378-8726-0BEC774108D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BugsnagUnity.PS4", "src\BugsnagUnity\BugsnagUnity.PS4.csproj", "{C6E1174D-95DA-4FBB-B9A7-D2A4BA21BD94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{B8C265A4-657B-4378-8726-0BEC774108D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8C265A4-657B-4378-8726-0BEC774108D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8C265A4-657B-4378-8726-0BEC774108D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6E1174D-95DA-4FBB-B9A7-D2A4BA21BD94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6E1174D-95DA-4FBB-B9A7-D2A4BA21BD94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6E1174D-95DA-4FBB-B9A7-D2A4BA21BD94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6E1174D-95DA-4FBB-B9A7-D2A4BA21BD94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+  <ItemGroup>
+    <Compile Remove="Native/**/*.cs" />
+    <Compile Include="Native/PS4/**/*.cs" />
+    <Compile Include="Native/Fallback/Configuration.cs" />
+    <Compile Include="Native/Fallback/Breadcrumbs.cs" />
+  </ItemGroup>
+</Project>
